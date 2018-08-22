@@ -6,7 +6,8 @@
 @File:tasks.py
 @Ide:PyCharm
 @Time:2018/8/22 11:28
-@Remark:celery需要注册的任务（项目中需要在celery中运行的函数）
+@Remark:celery需要注册的任务（项目中需要在celery中运行的函数），
+        这里只是测试用例，*args为位置参数（列表），**kwargs为关键字参数（字典），通过接口传递。
 """
 
 from celery.signals import  task_failure,task_success
