@@ -6,7 +6,7 @@
 @File:celeryBaseUtils.py
 @Ide:PyCharm
 @Time:2018/8/22 10:34
-@Remark:
+@Remark:封装的celery基本操作
 """
 
 import json
