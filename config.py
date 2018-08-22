@@ -6,7 +6,7 @@
 @File:config.py
 @Ide:PyCharm
 @Time:2018/8/22 11:11
-@Remark:
+@Remark:celery相关配置
 """
 
 
