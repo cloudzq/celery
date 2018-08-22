@@ -6,7 +6,7 @@
 @File:app.py
 @Ide:PyCharm
 @Time:2018/8/22 10:27
-@Remark:
+@Remark:实例化celery
 """
 
 import os
