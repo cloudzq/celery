@@ -6,7 +6,7 @@
 @File:tasks.py
 @Ide:PyCharm
 @Time:2018/8/22 11:28
-@Remark:
+@Remark:celery需要注册的任务（项目中需要在celery中运行的函数）
 """
 
 from celery.signals import  task_failure,task_success
